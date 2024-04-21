@@ -1,11 +1,11 @@
 {
-  "name": "sass-dashboard-CatCRM",
+  "name": "sass-dashboard-cat-crm",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/sass-dashboard-CatCRM/",
+    "build": "vite build --base=/sass-dashboard-cat-crm/",
     "preview": "vite preview",
     "watch": "npx vite build --watch"
   },
